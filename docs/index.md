@@ -1,7 +1,7 @@
 ---
 #template: overrides/home.html
 template: overrides/main.html
-title: Blog tự học của DuyHPe
+title: Blog Tự học
 ---
 # Về tác giả
 Đôi lời từ tác giả:
