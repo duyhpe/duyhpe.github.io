@@ -3,7 +3,7 @@
 template: overrides/main.html
 title: Tự học lập trình với Python 3
 ---
-# Giới thiệu về Python 
+# Về Python 
 Python là một ngôn ngữ lập trình bậc cao, được dùng với nhiều ứng dụng trong nhiều lĩnh vực như lập trình Web, scripting, khoa học máy tính và trí tuệ nhân tạo
 
 Python cũng được dùng phổ biến trong các tổ chức lớn như Google, NASA, CIA và Disney
