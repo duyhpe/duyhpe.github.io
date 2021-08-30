@@ -115,7 +115,7 @@ extra:
 
     # Switch to English
     - name: English
-      link: /
+      link: /en/
       lang: en
 
 # Extensions
