@@ -1,13 +1,8 @@
 ---
-template: overrides/home.html
-#template: overrides/main.html
+#template: overrides/home.html
 title: Blog tự học của DuyHPe
 ---
 # About
-Đôi lời từ tác giả:
+Tính năng này đang được xây dựng
 
-
-# Hoạt động của Blog
-
-
-Chúc các bạn thành công!
+Vui lòng quay trở lại sau !
