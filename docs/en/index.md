@@ -2,7 +2,8 @@
 #template: overrides/home.html
 title: Blog tự học của DuyHPe
 ---
-# About
-Tính năng này đang được xây dựng
+# Welcome to my Blog
 
-Vui lòng quay trở lại sau !
+This feature is under construction
+
+Please come back later!
