@@ -27,7 +27,9 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: vi
+
+  language: en-custom
+
   features:
     - content.code.annotate
     - content.tabs.link
@@ -104,6 +106,17 @@ extra:
       link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/squidfunk
+  alternate:
+
+    # Switch to English
+    - name: English
+      link: <your-site>/en/
+      lang: en
+
+    # Switch to German
+    - name: Deutsch
+      link: <your-site>/de/
+      lang: de
 
 # Extensions
 markdown_extensions:
