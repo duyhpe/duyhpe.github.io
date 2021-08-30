@@ -1,6 +1,6 @@
 ---
-template: overrides/home.html
-#template: overrides/main.html
+#template: overrides/home.html
+template: overrides/main.html
 title: Blog tự học của DuyHPe
 ---
 # Về tác giả
