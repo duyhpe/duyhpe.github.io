@@ -2,7 +2,7 @@
 #template: overrides/main.html
 ---
 
-# Creating your site
+# Cài đặt Python 
 
 After you've [installed][1] Material for MkDocs, you can bootstrap your project 
 documentation using the `mkdocs` executable. Go to the directory where you want
@@ -37,7 +37,7 @@ This will create the following structure:
 
   [1]: getting-started.md
 
-## Configuration
+## Cấu hình và thiết lập môi trường làm việc
 
 ### Minimal configuration
 
