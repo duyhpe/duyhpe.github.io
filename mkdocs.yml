@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Blog Tự học
+# Copyright
+copyright: duy.hpe@gmail.com &copy; 2021 
+
+# Configuration
+theme:
+  name: null
+  custom_dir: !ENV [THEME_DIR, "material"]
+
+  # Static files
+  static_templates:
+    - 404.html
