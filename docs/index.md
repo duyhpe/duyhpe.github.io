@@ -1,7 +1,7 @@
 ---
-template: overrides/home.html
-title: Blog Tự học
+#template: overrides/main.html
 ---
+title: Blog Tự học
 # Về tác giả
 Đôi lời từ tác giả:
 
