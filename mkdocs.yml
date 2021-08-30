@@ -1,34 +1,15 @@
-# Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
-
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to
-# deal in the Software without restriction, including without limitation the
-# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-# sell copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-# IN THE SOFTWARE.
-
 # Project information
-site_name: Tự học Python 3
-site_url: https://github.com/duyhpe/python3.git
-site_author: DuyHPe
+site_name: Blog Tự học
+site_url: https://github.com/duyhpe/duyhpe.github.io.git
+site_author: Duy.HPe
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  Đây là Blog cá nhân
+  Được tạo ra với mục đích chia sẻ tài liệu và kiến thức tự học
+  với mã nguồn mở
 
 # Repository
-repo_name: duyhpe/python3.git
-repo_url: https://github.com/duyhpe/python3.git
+repo_name: duyhpe/duyhpe.github.io.git
+repo_url: https://github.com/duyhpe/duyhpe.github.io.git
 edit_uri: ""
 
 # Copyright
