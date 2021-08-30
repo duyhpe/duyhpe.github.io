@@ -1,5 +1,5 @@
 ---
-#template: overrides/main.html
+template: overrides/home.html
 title: Blog Tự học
 ---
 # Về tác giả
