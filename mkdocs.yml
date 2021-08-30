@@ -115,8 +115,8 @@ extra:
 
     # Switch to English
     - name: English
-      link: en/
-      lang: de
+      link: /
+      lang: en
 
 # Extensions
 markdown_extensions:
