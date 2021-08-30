@@ -161,7 +161,7 @@ markdown_extensions:
 nav:
   - Trang chủ: index.md
   - Giới thiệu:
-    - Creating your site: creating-your-site.md
+    - Creating your site: about.md
     - Publishing your site: publishing-your-site.md
     - Customization: customization.md
     - Troubleshooting: troubleshooting.md
