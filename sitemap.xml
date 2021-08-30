@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/en/</loc>
+         <lastmod>2021-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/duyhpe/duyhpe.github.io.git/insiders/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
