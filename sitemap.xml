@@ -1,217 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/duyhpe/python3.git/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/changelog/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/license/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/creating-your-site/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/insiders/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/customization/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/insiders/changelog/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/data-privacy/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/insiders/getting-started/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/deprecations/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/abbreviations/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/getting-started/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/admonitions/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/license/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/buttons/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/publishing-your-site/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/code-blocks/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/troubleshooting/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/content-tabs/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/upgrading/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/data-tables/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/insiders/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/diagrams/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/insiders/changelog/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/footnotes/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/insiders/getting-started/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/formatting/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/abbreviations/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/icons-emojis/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/admonitions/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/images/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/buttons/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/lists/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/code-blocks/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/mathjax/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/content-tabs/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/meta-tags/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/data-tables/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/reference/variables/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/diagrams/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/adding-a-comment-system/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/footnotes/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/adding-a-git-repository/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/formatting/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/changing-the-colors/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/icons-emojis/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/changing-the-fonts/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/images/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/changing-the-language/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/lists/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/changing-the-logo-and-icons/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/mathjax/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-navigation/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/meta-tags/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-site-analytics/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/reference/variables/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-site-search/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/adding-a-comment-system/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-social-cards/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/adding-a-git-repository/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-tags/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/changing-the-colors/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-the-footer/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/changing-the-fonts/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-the-header/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/changing-the-language/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/changing-the-logo-and-icons/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-navigation/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-site-analytics/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-site-search/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-social-cards/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-tags/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-the-footer/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-the-header/</loc>
-         <lastmod>2021-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/duyhpe/python3.git/setup/setting-up-versioning/</loc>
+         <loc>https://github.com/duyhpe/duyhpe.github.io.git/setup/setting-up-versioning/</loc>
          <lastmod>2021-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
