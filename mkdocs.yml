@@ -110,12 +110,12 @@ extra:
 
     # Switch to Việt Nam
     - name: Tiếng Việt
-      link: <your-site>/en/
+      link: /
       lang: vi
 
     # Switch to English
     - name: English
-      link: <your-site>/de/
+      link: en/
       lang: de
 
 # Extensions
