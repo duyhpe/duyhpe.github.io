@@ -3,11 +3,12 @@ template: overrides/main.html
 ---
 
 # Giới thiệu
+Đây là Blog Tự học,
+Được xây dựng với mã nguồn mở nhằm lưu trữ và chia sẻ kiến thức
 
-**MIT License**
+**Giấy phép mã nguồn mở**
 
-Copyright (c) 2016-2021 Martin Donath
-
+Copyright (c) 2016-2021 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
