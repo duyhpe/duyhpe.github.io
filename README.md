@@ -2,9 +2,9 @@
 
 <p align="center">
   <strong>
-    A 
+    Tài liệu sử dụng giao diện
     <a href="https://material.io/">Material Design</a> 
-    theme for 
+    với công cụ
     <a href="https://www.mkdocs.org/">MkDocs</a>
   </strong>
 </p>
