@@ -1,6 +1,6 @@
 ---
 #template: overrides/home.html
-title: Blog tự học của DuyHPe
+title: Blog tự học
 ---
 # Welcome to my Blog
 
