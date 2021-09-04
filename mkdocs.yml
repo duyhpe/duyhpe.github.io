@@ -171,21 +171,53 @@ nav:
       - Changelog: changelog.md
       - Upgrade guide: upgrading.md
       - Deprecations: deprecations.md
-  - Python 3:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up social cards: setup/setting-up-social-cards.md
-    - Setting up tags: setup/setting-up-tags.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
+  - Tự học Python 3:
+    - Giới thiệu về Python : 
+      - Cài đặt Python: python3/caidatpython3.md
+      - Từ khóa và định danh: python3/TuKhoaPython.md
+      - Câu lệnh và cấu trúc: python3/CauLenhPython.md
+      - Biến và Kiểu dữ liệu: python3/BienvaDulieu.md
+      - Chương trình Hello World: python3/caidatpython.md
+    - Điều khiển chương trình: 
+      - 1. Câu lệnh điều khiển: setup/changing-the-fonts.md
+      - 2. Vòng lặp for: setup/changing-the-fonts.md
+      - 3. Vòng lặp while: setup/changing-the-fonts.md
+      - 4. Lệnh break và continue: setup/changing-the-fonts.md
+      - 5. Lệnh pass : setup/changing-the-fonts.md
+      - 6. Kỹ thuật vòng lặp: setup/changing-the-fonts.md
+    - Hàm trong Python:
+      - 1. Các hàm trong Python: setup/changing-the-fonts.md
+      - 2. Các hàm tích hợp sẵn: setup/changing-the-fonts.md
+      - 3. Hàm do người dùng định nghĩa: setup/changing-the-fonts.md
+      - 4. Tham số của hàm: setup/changing-the-fonts.md
+      - 5. Hàm đệ quy trong Python: setup/changing-the-fonts.md
+      - 6. Hàm vô danh, Lambda trong Python: setup/changing-the-fonts.md
+      - 7. Các loại biến trong Python: setup/changing-the-fonts.md
+      - 8. Từ khóa global trong Python: setup/changing-the-fonts.md
+      - 9. Module trong Python: setup/changing-the-fonts.md
+      - 10. Package trong Python: setup/changing-the-fonts.md
+    - File trong Python:
+      - 1. Làm việc với File: setup/changing-the-fonts.md
+      - 2. Quản lý File và thư mục: setup/changing-the-fonts.md
+      - 3. Error và Exception: setup/changing-the-fonts.md
+      - 4. Xử lý ngoại lệ - Exception Handling: setup/changing-the-fonts.md
+    - Class và Object trong Python: 
+      - 1. Lập trình hướng đối tượng - OOP: setup/changing-the-logo-and-icons.md
+      - 2. Đối tượng Iterator trong Python: setup/changing-the-fonts.md
+      - 3. Generator trong Python: setup/changing-the-fonts.md
+      - 4. Closure trong Python: setup/changing-the-fonts.md
+      - 5. Nạp chồng toán tử : setup/changing-the-fonts.md
+    - Python nâng cao: 
+      - 1. Ma trận trong Python: setup/setting-up-navigation.md
+      - 2. Đối tượng Iterator trong Python: setup/setting-up-navigation.md
+      - 3. Generator trong Python: setup/setting-up-navigation.md
+      - 4. Closure trong Python: setup/setting-up-navigation.md
+      - 5. Decorator trong Python: setup/setting-up-navigation.md
+      - 6. @property trong Python: setup/setting-up-navigation.md
+      - 7. RegEx trong Python: setup/setting-up-navigation.md
+    - Luyện tập với Python: setup/setting-up-site-search.md
+    - Thư viện hữu ích: setup/setting-up-site-analytics.md
+    - Chương trình mẫu: setup/setting-up-social-cards.md
   - Kho thư viện:
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
@@ -202,8 +234,5 @@ nav:
     - MathJax: reference/mathjax.md
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
-  - Liên hệ:
-    - Sponsorship: insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
+  - Liên hệ: contact.md
+    
